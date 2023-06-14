@@ -1,0 +1,17 @@
+Oop is a programming paradigm centered around objects rather 
+than functions.
+
+ Encapsulation  -       group related variables and function together, 
+                        this way we can reduce complexity, we can now 
+                        reuse the object in different parts of the program, 
+                        or in different programs
+ Absration      -       we hide the details and the complexity and show 
+                        only the essentials. it reduces the complexity and 
+                        also isolates the impact of changes in the code. 
+ Inheritance    -       We can eliminate redundant code
+ Polymorphism   -       Refactor ugly switch case statements
+
+
+ Before oop we had procedural programming where we have data 
+ stored in bunch of variables and functions that operate on 
+ the data.
